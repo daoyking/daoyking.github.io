@@ -1,61 +1,71 @@
 ---
 layout: post
-title: "Edge Case: Nested and Mixed Lists"
+title: "Aquarius and Gemini"
 categories:
-  - Edge Case
+  - Story
 tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
+  - meet
+  - Sweet
+  - daily
+  - Listen for
+  - Conversation
 ---
 
-Nested and mixed lists are an interesting beast. It's a corner case to make sure that
 
-* Lists within lists do not break the ordered list numbering order
-* Your list styles go deep enough.
+Meeting is the best thing.
 
-### Ordered -- Unordered -- Ordered
+* Maybe I can't believe it now.
+* Meeting her seemed like a dream.
 
-1. ordered item
-2. ordered item 
-  * **unordered**
-  * **unordered** 
-    1. ordered item
-    2. ordered item
-3. ordered item
-4. ordered item
+### Meet
 
-### Ordered -- Unordered -- Unordered
+1. 故事是从2018年2月23日，10:02分通过了我的朋友验证请求开始的。
+2. 刚开始，我们在互道姓名。
+  * **金道洋**
+  * **赵柄棚**
+    1. 很特别的名字
+    2. 用现在的话说是很英气的名字
+3. 然后在一通调查似的询问中了解了一些近况。（就是问了当前的城市）
+4. 然后趁机怀念了一下我的大学生活。
 
-1. ordered item
-2. ordered item 
-  * **unordered**
-  * **unordered** 
-    * unordered item
-    * unordered item
-3. ordered item
-4. ordered item
+### Sweet
 
-### Unordered -- Ordered -- Unordered
+1. 在我看来，Aquarius和Gemini在一起的每个瞬间，都是的。
+2. 她说给我“盖章”的时候，让我嘴角上扬~
+  * **细节**
+  * **盖章**
+    * 她说某个细节打动了她，但是到目前为止我也不知道做了什么
+    * 是的。拉钩上吊一百年不许变，然后盖章。哈哈哈
 
-* unordered item
-* unordered item 
-  1. ordered
-  2. ordered 
-    * unordered item
-    * unordered item
-* unordered item
-* unordered item
 
-### Unordered -- Unordered -- Ordered
+### daily
 
-* unordered item
-* unordered item 
-  * unordered
-  * unordered 
-    1. **ordered item**
-    2. **ordered item**
-* unordered item
-* unordered item
+* 问候
+* 视频
+  1. 早晚的问候，已经成为我们日常必不可少的一部分了。
+  2. 视频也是我们生活的一部分
+    * 没有确立关系之前她的一句晚安都能让我傻乐很久，之后就更久啦~
+    * 看着屏幕前的她，好想拥她入怀
+* 分享着我们的点点滴滴，这样我们就能体会不一样的一天了呢
+* 尽管现在不能在她身边，但还是会一直逗她，我要给她信心。嗯，信心（认真脸）
+
+### Listen for
+
+* 学会倾听
+  * 在我认为，这是非常重要的一件事情。
+  * 一直都告诉她，我愿意做她的垃圾桶。
+    1. **垃圾桶**
+    2. **情绪**
+* 我很想让她向我倾诉，但是她似乎不愿让我看到那一面
+* 我想说的是，做你自己就好。
+
+### Conversation
+
+* 我们的第一次交谈是她在询问我未来的规划，因为她对异地没信心
+* 在我看来，交谈是把面临的问题，放到台面上讲清楚那种。
+  * 对于异地，缺乏信心。可能是因为初恋的原因吧
+  * 交谈需要面对面的（自己是这么认为的）
+    1. **信心**
+    2. **安全感**
+* 对自己要有信心，对双子也要有！
+* 用行动告诉你...
