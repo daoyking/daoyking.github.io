@@ -1,71 +1,25 @@
-# Update 07/09/2018
+# Halve  [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
+  
+## `Sorry guys but there will be no update until I buy a new laptop.`
 
-I'm planning to refactor Leonids theme!!!
+This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
 
-The goal is really simple: make documentation more intuitive and deployment simpler!!!
+To learn how to install and use this theme check out the [installation guide](https://taylantatli.github.io/Halve/halve-theme/) for more information.
 
-Here is the plan:
+If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
 
-| Version | Description | Date |
-| --- | --- | --- |
-| 1.1 | Jekyll version deployable with gem | 07/15/2018 |
-| 1.2 | New features: Pagination, Prev/Next post | 07/22/2018 |
-| 2.0 | Gatsby or Vuepress version (vote in Issues) | who knows... |
+## Preview   
+![screenshot of Halve](/images/halve-home-image.png)
 
-As the project was and will be designed to improve your writing experience, only documentation, gem, deployment process with CI relevant PRs are acceptable in the future.
+See a [live version of Halve](http://taylantatli.github.io/Halve) hosted on GitHub.
 
-I want you to know how much I value your support.
+# Credits
+- Original Work: [Vangelis Tzortzis](https://github.com/srekoble)  
+- Sample Posts and some code examples: [Michael Rose](https://github.com/mmistakes/)
+- Images: [Unsplash](https://unsplash.com/) and [Lorem Pixel](http://lorempixel.com)
 
-Share it to your timeline!
-
-# Update 05/06/2016
-
-Important! It's better to download the gzipped files instead of forking the repo. I would really appreciate if you could give me a star. 😁
-
-This project is under MIT license, so feel free to make it your own.
-
-# Leonids Jekyll Themes
-
-**[Leonids](http://renyuanz.github.io/leonids)** is a clean Jekyll theme perfect for powering your GitHub hosted blog.
-
-## What is Leonids?
-
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Simple and clear permalink structure.
-* Support for Disqus Comments.
-* Support for multi-authors.
-* **And** the Leonids (/ˈliːənɪdz/ lee-ə-nidz) are a prolific meteor shower associated with the comet [Tempel-Tuttle](https://en.wikipedia.org/wiki/55P/Tempel%E2%80%93Tuttle).
-
-See a [demo](http://renyuanz.github.io/leonids/) hosted on GitHub.
-
-## Quick setup
-
-```
-git clone https://github.com/renyuanz/leonids
-cd leonids
-jekyll server
-```
-
-Check out your awesome blog at `http://localhost:4000` and Cheers!
-
-## Running with Docker
-
-```
-docker run --rm -it --volume=$PWD:/srv/jekyll -p 4000:4000 jekyll/jekyll:pages jekyll serve --watch --force_polling
-```
-
-## Resume Page by [@Skn0tt](https://github.com/Skn0tt)
-Leonids features a simple resume page. It is divided up into five sections:
-
-* Bio (Edit \_data/index/careers.yml)
-* Education (Edit \_data/index/education.yml)
-* Skills (Edit \_data/index/skills.yml)
-* Projects (Edit \_data/index/projects.yml)
-* About (Edit \_includes/sections/about.html)
-
-You can put all your info into these files, and they will be featured on the resume page.
-
-## TODO
-
-- [ ] Redesign categories page. Ref: [dribbble: blog category section By Ilja Miskov](https://dribbble.com/shots/2274792-Blog-Category-Selection)
-- [ ] Multi languages support.
+### Others
+- [Jekyll](http://jekyllrb.com/)
+- [jQuery](http://jquery.com/)
+- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
+- [FitVids.JS](http://fitvidsjs.com/)
