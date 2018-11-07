@@ -153,7 +153,7 @@ image: http://example.com/some-image.png
 ```    
  This also will be used for twitter card:
 
-![Halve Twitter Card]({{ site.url }}/images/post-image-halve-5.png)
+![Halve Twitter Card](https://raw.githubusercontent.com/daoyking/daoyking.github.io/master/images/post-image-halve-5.png)
 
 ---
 

@@ -9,7 +9,7 @@ tags:
 ---
 
 {% capture fig_img %}
-![Foo]({{ site.url }}/images/unsplash-gallery-image-3.jpg)
+![Foo](https://raw.githubusercontent.com/daoyking/daoyking.github.io/master/images/unsplash-gallery-image-3.jpg)
 {% endcapture %}
 
 <figure>
